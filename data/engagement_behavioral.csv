@@ -1,0 +1,25 @@
+﻿log_id,student_id,term,attendance_percentage,lms_logins_per_week,disciplinary_incidents,extracurricular_activity,counselor_visit
+LOG-001,STU-001,Fall 2024,98,15,0,Science Club,No
+LOG-002,STU-001,Spring 2025,99,16,0,Science Club,No
+LOG-003,STU-001,Fall 2025,100,18,0,Science Club (Leader),No
+LOG-004,STU-002,Fall 2024,85,5,1,None,Yes
+LOG-005,STU-002,Spring 2025,92,8,0,Art Club,No
+LOG-006,STU-002,Fall 2025,95,9,0,Art Club,No
+LOG-007,STU-022,Fall 2024,80,3,3,None,Yes
+LOG-008,STU-022,Spring 2025,92,8,1,Sports (Football),Yes
+LOG-009,STU-022,Fall 2025,94,10,0,Sports (Football Captain),No
+LOG-010,STU-028,Fall 2024,88,7,1,None,No
+LOG-011,STU-028,Spring 2025,93,9,0,None,No
+LOG-012,STU-028,Fall 2025,95,10,0,None,No
+LOG-013,STU-035,Fall 2024,95,10,0,Chess Club,Yes
+LOG-014,STU-035,Spring 2025,90,6,0,Chess Club,Yes
+LOG-015,STU-035,Fall 2025,96,12,0,Chess Club,No
+LOG-016,STU-040,Fall 2024,81,4,2,None,No
+LOG-017,STU-040,Spring 2025,90,7,1,Sports (Kabaddi),No
+LOG-018,STU-040,Fall 2025,94,8,0,Sports (Kabaddi),No
+LOG-019,STU-041,Fall 2024,100,22,0,Physics Olympiad,No
+LOG-020,STU-041,Spring 2025,100,24,0,Physics Olympiad,No
+LOG-021,STU-041,Fall 2025,100,25,0,Physics Olympiad (Mentor),No
+LOG-022,STU-050,Fall 2024,90,8,0,None,No
+LOG-023,STU-050,Spring 2025,92,10,0,None,No
+LOG-024,STU-050,Fall 2025,94,11,0,Drama Club,No

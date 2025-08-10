@@ -1,0 +1,14 @@
+﻿survey_id,student_id,term,survey_type,question,response,
+SUR-001,STU-001,Fall 2024,Teacher Feedback,Rate your Math teacher's clarity (1-5).,5,
+SUR-002,STU-022,Fall 2024,Well-being,On a scale of 1-5, how connected do you feel to the school?,1
+SUR-003,STU-022,Spring 2025,Well-being,On a scale of 1-5, how connected do you feel to the school?,3
+SUR-004,STU-022,Fall 2025,Goal Setting,What is one goal for this year?,Become football captain.,
+SUR-005,STU-035,Spring 2025,Teacher Feedback,Rate your Math teacher's support (1-5).,2,
+SUR-006,STU-035,Fall 2025,Well-being,How confident do you feel about Math this term (1-5)?,3,
+SUR-007,STU-041,Fall 2024,Career Interest,What field are you interested in?,Theoretical Physics,
+SUR-008,STU-041,Fall 2025,Career Interest,What field are you interested in?,Applied Physics and Engineering,
+SUR-009,STU-019,Fall 2024,Teacher Feedback,Rate your History teacher's engagement (1-5).,5,
+SUR-010,STU-033,Fall 2024,Teacher Feedback,Rate your History teacher's engagement (1-5).,5,
+SUR-011,STU-048,Fall 2025,Career Interest,What are you planning after graduation?,Write a novel.,
+SUR-012,STU-010,Spring 2025,Well-being,On a scale of 1-5, how stressed do you feel?,2
+SUR-013,STU-018,Spring 2025,Well-being,On a scale of 1-5, how easy is it to see the board?,5

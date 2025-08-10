@@ -1,0 +1,11 @@
+﻿intervention_id,student_id,date,intervention_type,reason,outcome_notes,
+INT-001,STU-002,28-11-2024,Academic Tutoring,Falling grades in Math,Student showed marked improvement in Spring 2025.,
+INT-002,STU-003,01-12-2024,Parent-Teacher Meeting,Low attendance and grades,Attendance improved from 75% to 90%.,
+INT-003,STU-005,15-10-2024,Counseling,ADHD management strategies,Improved focus reported by teachers.,
+INT-004,STU-010,20-09-2024,Counseling,Anxiety,Student joined Art Club and reports lower stress.,
+INT-005,STU-018,05-12-2024,Special Accommodations,Low Vision,"Provided with front-row seating, notes shared.",
+INT-006,STU-022,20-01-2025,Behavioral Counseling,Multiple disciplinary incidents,Incidents decreased, joined sports team.
+INT-007,STU-032,10-03-2025,Academic Tutoring,Struggling in Science,Grades improved by end of Spring 2025 term.,
+INT-008,STU-035,15-06-2025,Special Accommodations,Diagnosed with Dyscalculia,Specialized math tutoring arranged for Fall 2025.,
+INT-009,STU-040,11-02-2025,Parent-Teacher Meeting,Behavioral concerns and low attendance,Marked improvement in attendance in Spring 2025.,
+INT-010,STU-050,20-07-2025,Counseling,Low engagement,Student encouraged to join extracurriculars, joined Drama in Fall 2025.

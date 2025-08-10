@@ -1,0 +1,51 @@
+﻿student_id,first_name,last_name,date_of_birth,gender,grade_level_in_fall_2024,parental_education,parental_occupation,health_notes
+STU-001,Aarav,Sharma,15-05-2009,Male,10,Masters,Engineer,None
+STU-002,Priya,Patel,22-11-2008,Female,11,Bachelors,Manager,Mild Dyslexia
+STU-003,Rohan,Singh,10-02-2009,Male,10,High School,Technician,None
+STU-004,Sneha,Gupta,30-07-2008,Female,11,PhD,Researcher,None
+STU-005,Vikram,Kumar,05-09-2007,Male,12,Bachelors,Sales,ADHD
+STU-006,Anjali,Verma,12-04-2009,Female,10,Masters,Doctor,None
+STU-007,Amit,Jain,25-01-2008,Male,11,High School,Small Business,Glasses
+STU-008,Kavita,Reddy,18-06-2007,Female,12,Bachelors,Architect,None
+STU-009,Suresh,Nair,02-10-2009,Male,10,PhD,Professor,None
+STU-010,Deepa,Menon,20-03-2008,Female,11,Masters,Lawyer,Anxiety
+STU-011,Mahesh,Chopra,11-08-2009,Male,10,Bachelors,Accountant,None
+STU-012,Geeta,Joshi,01-12-2008,Female,11,High School,Homemaker,None
+STU-013,Imran,Khan,19-11-2007,Male,12,Masters,IT Consultant,None
+STU-014,Pooja,Mehra,24-06-2009,Female,10,Bachelors,Designer,None
+STU-015,Rahul,Desai,09-05-2008,Male,11,PhD,Scientist,None
+STU-016,Sunita,Pillai,30-10-2007,Female,12,Masters,Banker,None
+STU-017,Arjun,Malhotra,07-01-2009,Male,10,Bachelors,Journalist,None
+STU-018,Neha,Bisht,14-02-2008,Female,11,High School,Retail,Low Vision
+STU-019,Zoya,Hussain,03-04-2007,Female,12,PhD,Historian,None
+STU-020,Karan,Thakur,17-09-2009,Male,10,Bachelors,Marketing,None
+STU-021,Isha,Saxena,08-08-2008,Female,11,Masters,HR Manager,None
+STU-022,Sameer,Ali,07-07-2007,Male,12,High School,Mechanic,None
+STU-023,Tanvi,Shah,29-03-2009,Female,10,Masters,Lawyer,None
+STU-024,Yash,Dubey,18-10-2008,Male,11,Bachelors,Civil Engineer,None
+STU-025,Diya,Sinha,21-05-2007,Female,12,PhD,Economist,None
+STU-026,Farhan,Akhtar,22-05-2009,Male,10,Bachelors,Writer,None
+STU-027,Gauri,Shinde,10-11-2008,Female,11,Masters,Director,None
+STU-028,Harish,Rao,01-01-2009,Male,10,High School,Driver,None
+STU-029,Ishita,Chavan,15-08-2008,Female,11,PhD,Professor,None
+STU-030,Jatin,Mehta,12-09-2007,Male,12,Bachelors,Pharmacist,None
+STU-031,Lalita,Pawar,01-04-2009,Female,10,Masters,Government Official,None
+STU-032,Manoj,Tiwari,28-02-2008,Male,11,High School,Electrician,None
+STU-033,Nandita,Das,20-06-2007,Female,12,Masters,Social Worker,None
+STU-034,Omkar,Nath,11-10-2009,Male,10,PhD,Chemist,None
+STU-035,Parineeti,Goel,03-03-2008,Female,11,Bachelors,Analyst,Dyscalculia
+STU-036,Qadir,Baig,09-09-2007,Male,12,Bachelors,Pilot,None
+STU-037,Rani,Mukherjee,18-08-2009,Female,10,Masters,Consultant,None
+STU-038,Salil,Parekh,19-01-2008,Male,11,Masters,Software Engineer,None
+STU-039,Tara,Sutaria,14-07-2007,Female,12,Bachelors,Actor,None
+STU-040,Uday,Shetty,31-12-2009,Male,10,High School,Contractor,None
+STU-041,Vidya,Balan,25-04-2008,Female,11,PhD,Physicist,None
+STU-042,Wasim,Jaffer,05-05-2007,Male,12,Bachelors,Coach,None
+STU-043,Xenia,Dcosta,23-11-2009,Female,10,Masters,Chef,None
+STU-044,Yusuf,Pathan,17-02-2008,Male,11,High School,Athlete,None
+STU-045,Zarina,Wahab,27-08-2007,Female,12,Bachelors,Entrepreneur,None
+STU-046,Aditya,Roy,01-07-2009,Male,10,Masters,Architect,None
+STU-047,Bipasha,Basu,06-06-2008,Female,11,Bachelors,Model,None
+STU-048,Chetan,Bhagat,12-12-2007,Male,12,Masters,Author,None
+STU-049,Diana,Penty,02-02-2009,Female,10,Bachelors,Manager,None
+STU-050,Emraan,Hashmi,09-09-2008,Male,11,High School,Sales,None
